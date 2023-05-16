@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HomeMatch" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#8BC83F</item>
+    </style>
+
+    <style name="Theme.HomeMatch" parent="Base.Theme.HomeMatch" />
+</resources>
